@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="Hello.Services.model.NhanVien">
+		<field name="uuid" type="String" />
+		<field name="Id" type="long" />
+		<field name="groupId" type="long" />
+		<field name="companyId" type="long" />
+		<field name="userId" type="long" />
+		<field name="userName" type="String" />
+		<field name="createDate" type="Date" />
+		<field name="modifiedDate" type="Date" />
+		<field name="TenNV" type="String" />
+		<field name="GioiTinh" type="boolean" />
+		<field name="Email" type="String" />
+		<field name="NgaySinh" type="Date" />
+		<field name="DiaChi" type="String" />
+	</model>
+</model-hints>

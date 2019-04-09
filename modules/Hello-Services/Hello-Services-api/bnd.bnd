@@ -1,0 +1,10 @@
+Bundle-Name: Hello-Services-api
+Bundle-SymbolicName: Hello.Services.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	Hello.Services.exception,\
+	Hello.Services.model,\
+	Hello.Services.service,\
+	Hello.Services.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../Hello-Services-service/service.xml

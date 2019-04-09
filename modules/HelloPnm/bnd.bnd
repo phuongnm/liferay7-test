@@ -1,0 +1,4 @@
+Bundle-Name: HelloPnm
+Bundle-SymbolicName: HelloPnm
+Bundle-Version: 1.0.0
+Export-Package: HelloPnm.constants
